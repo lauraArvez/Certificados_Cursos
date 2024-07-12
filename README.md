@@ -7,7 +7,7 @@ Este repositorio contiene todos mis certificados de asistencia a diversos cursos
 Todos los certificados están almacenados en una única carpeta en formato PDF.
 
 ### Estructura del Repositorio
-
+Certificados_Cursos/
 ├── API_en_PHP_y_MySQL.pdf
 ├── Aprender_A_Programar_Python.pdf
 ├── BigData.pdf
